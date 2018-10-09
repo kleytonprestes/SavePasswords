@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SavePasswords</string>
+    <string name="input_your_name">Insira seu nome</string>
+    <string name="Input_your_email">Insira seu e-mail</string>
+    <string name="input_your_password">Insira sua senha</string>
+    <string name="sign_up">Cadastre-se</string>
+    <string name="register">Cadastrar</string>
+    <string name="login">Entrar</string>
+    <string name="rule_password">A senha deve conter no minimo 8 caraceteres contendo no minímo uma letra, um número, um caractere especial</string>
+</resources>
